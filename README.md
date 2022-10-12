@@ -1,2 +1,2 @@
 # PowerBi
-BadRock
+Use This Templates
